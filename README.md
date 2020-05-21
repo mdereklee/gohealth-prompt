@@ -1,4 +1,4 @@
-# GoHealth Interview Attendance
+# Interview Attendance
 Overall process:
 * Exploratory Data Analysis (EDA) and some feature engineering in notebook `EDA and Feature Engineering.ipynb`
 * First, try Logistic Regression in `LogisticRegression.ipynb` notebook
